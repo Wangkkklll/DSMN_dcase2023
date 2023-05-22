@@ -12,6 +12,20 @@ Waiting for update..............................................................
 ## Configuration 
 ## Installation 
 ## Usage
+1、Clone project
+```
+git clone https://github.com/Wangkkklll/DSMN_dcase2023.git
+```
+2、Install the required library files
+```
+pip install -r requirements
+```
+3、Dataset
+Please place dataset under the path /DSMN_dcase2023/data
+If your data is in another path, please create soft link
+```
+link -s /your_path/ /root/DSMN_dcase2023/data
+```
 ## Development 
 ## Changelog 
 ## FAQ 
