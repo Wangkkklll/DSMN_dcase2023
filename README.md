@@ -3,14 +3,10 @@
 ![license](https://img.shields.io/badge/license-MIT-blue)
 
 ## Introduction 
-This is a project that participated in Task 1 of DCASE2023
+This is a project that participated in Task 1 of DCASE2023  
 
-Waiting for update..............................................................
-### Summary 
-### Features
+Waiting for update
 ## Requirements
-## Configuration 
-## Installation 
 ## Usage
 1、Clone project
 ```
@@ -20,15 +16,15 @@ git clone https://github.com/Wangkkklll/DSMN_dcase2023.git
 ```
 pip install -r requirements
 ```
-3、Dataset
-Please place dataset under the path /DSMN_dcase2023/data
+3、Dataset  
+Please place dataset under the path /DSMN_dcase2023/data  
 If your data is in another path, please create soft link
 ```
 link -s /your_path/ /root/DSMN_dcase2023/data
 ```
-## Development 
-## Changelog 
 ## FAQ 
-### Contact 
-## Authors and acknowledgment 
-## License 
+## Authors
+Kangli Wang    eewkl@mail.scut.edu.cn
+Yiling Wu      202030242140@mail.scut.edu.cn
+## License
+MIT
