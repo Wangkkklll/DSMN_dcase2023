@@ -24,7 +24,7 @@ link -s /your_path/ /root/DSMN_dcase2023/data
 ```
 ## FAQ 
 ## Authors
-Kangli Wang    eewkl@mail.scut.edu.cn
+Kangli Wang    eewkl@mail.scut.edu.cn  
 Yiling Wu      202030242140@mail.scut.edu.cn
 ## License
 MIT
