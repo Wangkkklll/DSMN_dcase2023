@@ -4,12 +4,7 @@
 @Email: 455389059@qq.com
 @createtime : 2023-05-21 16:09
 """
-# coding=utf-8
-"""
-@Author : wangkangli
-@Email: 455389059@qq.com
-@createtime : 2023-05-21 16:02
-"""
+
 
 import numpy as np
 import pandas as pd
