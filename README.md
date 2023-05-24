@@ -1,6 +1,8 @@
 # DSMN_dcase2023
 ![name](https://img.shields.io/badge/dsmn-v0.1.1-brightgreen)
 ![license](https://img.shields.io/badge/license-MIT-blue)
+![ipython](https://img.shields.io/badge/iPython-v8.4.0-orange)
+![build](https://img.shields.io/badge/build-passing-yellowgreen)
 
 ## Introduction 
 This is a project that participated in Task 1 of DCASE2023  
