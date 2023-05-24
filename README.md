@@ -8,7 +8,7 @@ This is a project that participated in Task 1 of DCASE2023
 Waiting for update
 ## Requirements
 The required library files are placed in requirements.txt  
-RTX3080 + cuda11.3 + torch1.11
+our environment: RTX3080 + cuda11.3 + torch1.11
 ## Usage
 1、Clone project
 ```
@@ -24,9 +24,13 @@ If your data is in another path, please create soft link
 ```
 link -s /your_path/ /root/DSMN_dcase2023/data
 ```
+4、How to train
+```
+python train.py
+```
 ## FAQ 
 ## Authors
-Kangli Wang    eewkl@mail.scut.edu.cn  
-Yiling Wu      202030242140@mail.scut.edu.cn
+Wang    eewkl@mail.scut.edu.cn  
+Wu      202030242140@mail.scut.edu.cn
 ## License
 MIT
