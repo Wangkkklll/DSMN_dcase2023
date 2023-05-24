@@ -6,8 +6,8 @@
 """
 
 from config import *
-from func import normalize_std,apply_diff_freq
-from aug import mixup,core_mixup,spec_augmenter
+from ./utils.func import normalize_std,apply_diff_freq
+from ./utils.aug import mixup,core_mixup,spec_augmenter
 
 import torch
 import torch.nn as nn
