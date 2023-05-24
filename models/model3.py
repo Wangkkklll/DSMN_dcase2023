@@ -272,6 +272,3 @@ class Cnn(nn.Module):
 
 
 
-
-model = Cnn()
-model.qconfig = torch.quantization.get_default_qat_qconfig("qnnpack")
