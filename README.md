@@ -7,6 +7,8 @@ This is a project that participated in Task 1 of DCASE2023
 
 Waiting for update
 ## Requirements
+The required library files are placed in requirements.txt  
+RTX3080 + cuda11.3 + torch1.11
 ## Usage
 1、Clone project
 ```
