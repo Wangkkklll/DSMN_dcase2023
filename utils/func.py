@@ -6,7 +6,7 @@
 """
 from torch import nn
 import torch
-from config import *
+from ./config import *
 import torchaudio
 import torchaudio.transforms as T
 from torchinfo import summary
