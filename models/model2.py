@@ -270,7 +270,3 @@ class Cnn(nn.Module):
         return x_1
 
 
-
-
-model = Cnn()
-model.qconfig = torch.quantization.get_default_qat_qconfig("qnnpack")
