@@ -24,7 +24,7 @@ pip install -r requirements
 Please place dataset under the path /DSMN_dcase2023/data  
 If your data is in another path, please create soft link
 ```
-link -s /your_path/ /root/DSMN_dcase2023/data
+ln -s /your_path/ /root/DSMN_dcase2023/data
 ```
 4、How to train
 ```
