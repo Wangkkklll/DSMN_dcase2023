@@ -7,7 +7,9 @@
 ## Introduction 
 This is a project that participated in Task 1 of DCASE2023  
 
-Waiting for update
+Waiting for update  
+our Technical Report: https://dcase.community/challenge2023/task-low-complexity-acoustic-scene-classification
+
 ## Requirements
 The required library files are placed in requirements.txt  
 our environment: RTX3080 + cuda11.3 + torch1.11
