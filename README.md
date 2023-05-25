@@ -8,7 +8,14 @@
 This is a project that participated in Task 1 of DCASE2023  
 
 Waiting for update  
-our Technical Report: https://dcase.community/challenge2023/task-low-complexity-acoustic-scene-classification
+our Technical Report: https://dcase.community/challenge2023/task-low-complexity-acoustic-scene-classification  
+  
+|| Parms | MACs | Acc(float32) | Acc(int8) |
+|----|----|----|----|----|
+|model1| 45.1k | 8.64M | 53.4 | 53.3 |
+|model2| 56.1k | 16.74M | 59.2 | 56.4 |
+|model3| 56.5k | 25.44M | 53.4 | 50.8 |
+|model4| 121.8k | 20.92M | 54.7 | 52.4 |
 
 ## Requirements
 The required library files are placed in requirements.txt  
