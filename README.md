@@ -39,6 +39,10 @@ ln -s /your_path/ /root/DSMN_dcase2023/data
 ```
 python train.py
 ```
+5、test
+```
+python test.py
+```
 ## FAQ 
 ## Authors
 Wang    eewkl@mail.scut.edu.cn  
