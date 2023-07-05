@@ -8,7 +8,7 @@
 This is a project that participated in Task 1 of DCASE2023  
 
 Waiting for update  
-our Technical Report: https://dcase.community/challenge2023/task-low-complexity-acoustic-scene-classification  
+our Technical Report:https://dcase.community/documents/challenge2023/technical_reports/DCASE2023_Wang_61_t1.pdf    
   
 || Parms | MACs | Acc(float32) | Acc(int8) |
 |----|----|----|----|----|
