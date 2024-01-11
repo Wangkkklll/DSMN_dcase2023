@@ -3,12 +3,12 @@
 ![license](https://img.shields.io/badge/license-MIT-blue)
 ![ipython](https://img.shields.io/badge/iPython-v8.4.0-orange)
 ![build](https://img.shields.io/badge/build-passing-yellowgreen)
-
+## Low-Complexity Acoustic Scene Classification Using Deep Space Separable Distillation And Mutil-Task Learning
 ## Introduction 
 This is a project that participated in Task 1 of DCASE2023  
 
 Waiting for update  
-our Technical Report:https://dcase.community/documents/challenge2023/technical_reports/DCASE2023_Wang_61_t1.pdf    
+Paper Link:https://dcase.community/documents/challenge2023/technical_reports/DCASE2023_Wang_61_t1.pdf    
   
 || Parms | MACs | Acc(float32) | Acc(int8) |
 |----|----|----|----|----|
