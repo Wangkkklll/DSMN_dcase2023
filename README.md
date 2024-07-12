@@ -33,18 +33,19 @@ If your data is in another path, please create soft link
 ```
 ln -s /your_path/ /root/DSMN_dcase2023/data
 ```
-4、How to train
+4、Nessi clone  
+This library is used to calculate the number of statistical model parameters.  
+```
+git clone https://github.com/AlbertoAncilotto/NeSsi.git
+```
+4、How to train  
+Modify the imported model to obtain a different model:from models.model1 import Cnn (**line313**)  
+If you are running the code for the first time, change **True** in **lines 220 and 252** of the **train.py** file to **False** to preprocess the data. After the data is processed, you can keep it as True when running the code later.
 ```
 python train.py
 ```
-5、test
-```
-python test.py
-```
-## FAQ 
-## Authors
-Wang    eewkl@mail.scut.edu.cn  
-Wu      202030242140@mail.scut.edu.cn
+## Contact us
+kangliwang@stu.pku.edu.cn
 
 ## Bibtex
 If you think this work will help you, please refer to the following documents
