@@ -38,7 +38,7 @@ This library is used to calculate the number of statistical model parameters.
 ```
 git clone https://github.com/AlbertoAncilotto/NeSsi.git
 ```
-4、How to train  
+5、How to train  
 Modify the imported model to obtain a different model:from models.model1 import Cnn (**line313**)  
 If you are running the code for the first time, change **True** in **lines 220 and 252** of the **train.py** file to **False** to preprocess the data. After the data is processed, you can keep it as True when running the code later.
 ```
