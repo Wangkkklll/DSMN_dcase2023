@@ -3,7 +3,9 @@
 ![license](https://img.shields.io/badge/license-MIT-blue)
 ![ipython](https://img.shields.io/badge/iPython-v8.4.0-orange)
 ![build](https://img.shields.io/badge/build-passing-yellowgreen)
-## Low-Complexity Acoustic Scene Classification Using Deep Space Separable Distillation And Mutil-Task Learning [(Paper Link)](https://dcase.community/documents/challenge2023/technical_reports/DCASE2023_Wang_61_t1.pdf)
+## Related Works
+**2023-06**: Low-Complexity Acoustic Scene Classification Using Deep Space Separable Distillation And Mutil-Task Learning [(Paper Link)](https://dcase.community/documents/challenge2023/technical_reports/DCASE2023_Wang_61_t1.pdf)  
+**2024-05**: Deep Space Separable Distillation for Lightweight Acoustic Scene Classification  [(Paper Link)](https://arxiv.org/abs/2405.03567)
 ## Introduction 
 ### Abstract
 This technical report describes our system for Task 1 in Detec-tion and Classification of Acoustic Scenes and Events (DCASE) 2023. We propose a deep space separable distillation block as the basic unit of the model, using its strong block processing ability to continuously cut the high-frequency and low-frequency parts of the log-Mel spectrogram. The accuracy is improved by multi-scale embedding and multi-task learning methods. To prevent overfitting, we adopt data augmentation methods such as mixing, speculation and spectral modulation. Quantization aware training is adopted to quantize the model to meet the requirements of edge devices with low complexity constraints. The proposed system achieves a 53.3% accuracy on the development dataset with only a parameter count of 45.16 kB and  the MACs of 8.64M .
