@@ -3,7 +3,7 @@
 ![license](https://img.shields.io/badge/license-MIT-blue)
 ![ipython](https://img.shields.io/badge/iPython-v8.4.0-orange)
 ![build](https://img.shields.io/badge/build-passing-yellowgreen)
-## Related Works
+## Some Related Works
 **2023-06**: Low-Complexity Acoustic Scene Classification Using Deep Space Separable Distillation And Mutil-Task Learning [(Paper Link)](https://dcase.community/documents/challenge2023/technical_reports/DCASE2023_Wang_61_t1.pdf)  
 **2024-05**: Deep Space Separable Distillation for Lightweight Acoustic Scene Classification  [(Paper Link)](https://arxiv.org/abs/2405.03567)
 ## Introduction 
