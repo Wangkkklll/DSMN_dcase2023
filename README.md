@@ -16,7 +16,7 @@ This technical report describes our system for Task 1 in Detec-tion and Classifi
 |model2| 56.1k | 16.74M | 59.2 | 56.4 |
 |model3| 56.5k | 25.44M | 53.4 | 50.8 |
 |model4| 121.8k | 20.92M | 54.7 | 52.4 |
-
+ 
 ## Requirements
 The required library files are placed in requirements.txt  
 our environment: RTX3080 + cuda11.3 + torch1.11
